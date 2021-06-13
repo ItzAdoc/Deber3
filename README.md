@@ -71,7 +71,7 @@ __CÁPITULO 6__
 
 4. Video
 
-* https://youtu.be/ZwqUhtuueok
+* 
 
 5. Conclusiones 
 
