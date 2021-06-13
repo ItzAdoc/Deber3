@@ -22,12 +22,18 @@ __Objetivos Específicos__
 3. Resolución de los ejercicios
 * Resolver los ejercicios del capítulo 5 y 6 del libro Análisis de Circuitos de Allan H. Robbins
 
-__CÁPITULO 3__
+__CÁPITULO 5__
 
-![](https://github.com/ItzAdoc/Imagenes_D2/blob/main/Ej1.jpg)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-29.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-29a.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-29.bPNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-31.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-31a.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-31b.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-33.PNG)
 
 
-__CÁPITULO 4__
+__CÁPITULO 6__
 
 
 
