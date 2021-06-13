@@ -31,6 +31,21 @@ __CÁPITULO 5__
 ![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-31a.PNG)
 ![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-31b.PNG)
 ![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-33.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-33a.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-33b.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-35.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-35a.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-1.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-3.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-5.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-5a.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-5b.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-7.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-9.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-9a.PNG)
+
+
+
 
 
 __CÁPITULO 6__
