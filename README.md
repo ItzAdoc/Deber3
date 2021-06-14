@@ -16,8 +16,7 @@ __Objetivos Específicos__
 
 
 * Calcular la resistencia y conductancia total de una red de resistencias en paralelo.
-* Determinar la corriente en cualquier resistor de un circuito en paralelo.
-* Usar la regla del divisor de corriente para determinar la corriente a través de cualquier combinación de resistores en paralelo.
+* Usar la regla del divisor de corriente para determinar la corriente a través de cualquier combinación de resistencias en paralelo.
 * Aplicar la ley de corriente de Kirchhoff.
 * Calcular los efectos de carga de un voltímetro conectado a un circuito.
 
@@ -89,6 +88,7 @@ __CÁPITULO 6__
 * La resistencia total en un circuito en serie se consigue simplemente sumando el valor de todas las resistencias. La corriente va a ser la misma en todo el circuito, así que se usa solo ley de Ohm.  
 * La ley de ohm se usa para determinar valores de voltaje, resistencia y corriente en un circuito en serie. La regla del divisor de voltaje es útil ya que nos ahorra tiempo en comparación a solo aplicar ley de ohm.
 *  Dentro de los circuitos en serie por definición sabemos que el voltaje se reparte y la intensidad es igual para todo el circuito, por lo tanto, la ley de voltajes de Kirchhoff nos permite saber el voltaje que circula por cada una de las resistencias. 
+* En un circuito en paralelo la resistencia total se calcula de diferente forma que, en un circuito en serie, se usa la formula de la resistencia equivalente y la conductancia total en un circuito en paralelo se consigue sumando todas las conductancias de cada resistencia.
 * 
 
 
