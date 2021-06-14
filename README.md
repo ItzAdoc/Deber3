@@ -41,6 +41,7 @@ __CÁPITULO 5__
 __CÁPITULO 6__
 
 ![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-1.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-1a.PNG)
 ![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-3.PNG)
 ![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-5.PNG)
 ![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-5a.PNG)
