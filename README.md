@@ -86,9 +86,9 @@ __CÁPITULO 6__
 
 5. Conclusiones 
 
-* 
-* 
-*  
+* La resistencia total en un circuito en serie se consigue simplemente sumando el valor de todas las resistencias. La corriente va a ser la misma en todo el circuito, así que se usa solo ley de Ohm.  
+* La ley de ohm se usa para determinar valores de voltaje, resistencia y corriente en un circuito en serie. La regla del divisor de voltaje es útil ya que nos ahorra tiempo en comparación a solo aplicar ley de ohm.
+*  Dentro de los circuitos en serie por definición sabemos que el voltaje se reparte y la intensidad es igual para todo el circuito, por lo tanto, la ley de voltajes de Kirchhoff nos permite saber el voltaje que circula por cada una de las resistencias. 
 * 
 
 
