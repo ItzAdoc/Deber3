@@ -4,8 +4,8 @@
 
  __Objetivos Generales__
 
-* 
-*  
+* Comprender los circuitos en serie, así como todos los que se puede calcular en ellos como: resistencia total, corriente, voltaje en cada resistencia usando las leyes que intervienen en los mismo como: ley de ohm y Kirchhoff y como el efecto de carga de amperímetro interviene en un circuito.
+* Comprender los circuitos en paralelo, así como todos los que se puede calcular en ellos como: resistencia y conductancia total, corriente en cada resistencia usando las leyes que intervienen en los mismo como: ley de ohm, Kirchhoff. Y como el efecto de carga de voltímetro interviene en un circuito. 
 
 __Objetivos Específicos__
 * Determinar la resistencia total en un circuito en serie y calcular la corriente en el circuito.
