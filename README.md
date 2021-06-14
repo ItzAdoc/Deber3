@@ -63,6 +63,8 @@ __CÁPITULO 6__
 ![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-17.PNG)
 ![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-17a.PNG)
 ![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-19.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-19aa.PNG)
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/6-19b.PNG)
 
 
 
