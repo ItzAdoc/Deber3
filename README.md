@@ -88,6 +88,8 @@ __CÁPITULO 6__
 * La resistencia total en un circuito en serie se consigue simplemente sumando el valor de todas las resistencias. La corriente va a ser la misma en todo el circuito, así que se usa solo ley de Ohm.  
 * La ley de ohm se usa para determinar valores de voltaje, resistencia y corriente en un circuito en serie. La regla del divisor de voltaje es útil ya que nos ahorra tiempo en comparación a solo aplicar ley de ohm.
 *  Dentro de los circuitos en serie por definición sabemos que el voltaje se reparte y la intensidad es igual para todo el circuito, por lo tanto, la ley de voltajes de Kirchhoff nos permite saber el voltaje que circula por cada una de las resistencias. 
+*  El efecto de carga de un amperímetro en un circuito se da porque el instrumento de medida tiene una resistencia interna que fluctúa el valor obtenido de medición, si el circuito tiene una resistencia alta el valor no se vera afectado en gran manera, sin embargo, si la resistencia en baja el valor puede verse afectado de gran manera. El efecto de carga se calcula con los valores medidos y reales y la respuesta se expresa en porcentaje. 
+
 * En un circuito en paralelo la resistencia total se calcula de diferente forma que, en un circuito en serie, se usa la formula de la resistencia equivalente y la conductancia total en un circuito en paralelo se consigue sumando todas las conductancias de cada resistencia.
 * 
 
