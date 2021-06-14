@@ -11,14 +11,14 @@ __Objetivos Específicos__
 * Determinar la resistencia total en un circuito en serie y calcular la corriente en el circuito.
 * Utilizar la ley de Ohm y la regla del divisor de voltaje para determinar el voltaje en todos los resistores en el circuito.
 * Aplicar la ley de voltaje de Kirchhoff. 
-* Calcular el efecto de carga de un amperímetro en un circuito.
+* Calcular el efecto de carga de un amperímetro y como afecta a en un circuito.
 
 
 
 * Calcular la resistencia y conductancia total de una red de resistencias en paralelo.
 * Usar la regla del divisor de corriente para determinar la corriente a través de cualquier combinación de resistencias en paralelo.
 * Aplicar la ley de corriente de Kirchhoff.
-* Calcular los efectos de carga de un voltímetro conectado a un circuito.
+* Calcular los efectos de carga de un voltímetro y como afecta en un circuito.
 
 2. Marco Teórico
 
