@@ -22,7 +22,7 @@ __Objetivos Específicos__
 
 2. Marco Teórico
 
-![]()
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/Marco5.jpeg)
 
 ![](https://github.com/ItzAdoc/ImagenesD3/blob/main/Paralelo.PNG)
 
