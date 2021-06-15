@@ -43,7 +43,7 @@ __CÁPITULO 5__
 ![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-35.PNG)
 ![](https://github.com/ItzAdoc/ImagenesD3/blob/main/5-35a.PNG)
 
-
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/45-47.jpg)
 
 __CÁPITULO 6__
 
