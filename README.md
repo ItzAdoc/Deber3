@@ -24,7 +24,7 @@ __Objetivos Específicos__
 
 ![]()
 
-![]()
+![](https://github.com/ItzAdoc/ImagenesD3/blob/main/Paralelo.PNG)
 
 3. Resolución de los ejercicios
 * Resolver los ejercicios del capítulo 5 y 6 del libro Análisis de Circuitos de Allan H. Robbins
